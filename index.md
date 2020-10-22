@@ -4,6 +4,7 @@ title: B.H. Choe - Home
 description: Byeong-Hak Choe is a PhD candidate at the University of Wyoming. 
 keywords: Byeong-Hak, Choe, economics
 ---
+
 Hello!
 
 My name is Byeong-Hak Choe. I am a PhD candidate in Economics at the University of Wyoming.
@@ -16,7 +17,7 @@ My research interests include analyzing the interplay between the economy and th
     <div class="row-fluid">
         <div class="span7" style="text-align:center">
              &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2017.jpg"
-                           title="cliamte_change_campaign_twitter_2017" 
+                           title="Climate Change Campaigns in Social Media" 
                            alt="Climate Change Social Media Campaigns in 2017" 
                            align="middle" />
         </div>
