@@ -16,7 +16,7 @@ My research interests include analyzing the interplay between the economy and th
 ###### <a name="Map of #climatechange/#globalwarming Tweets in 2017"></a>Map of #climatechange/#globalwarming Tweets in 2017
 <div class="container">
     <div class="row-fluid">
-        <div class="span2" style="text-align:left">
+        <div class="span1" style="text-align:left">
         </div>
         <div class="span5" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2017.jpg"
