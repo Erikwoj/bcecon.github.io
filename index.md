@@ -12,23 +12,7 @@ My research interests include analyzing the interplay between the economy and th
 
 <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
----
-
-#### <a name="Contact"></a>Contact
 <div class="container">
-    <div class="row-fluid">
-        <div class="span5">
-            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@uwyo.edu">bchoe@uwyo.edu</a><br>
-            <br/>
-            Department of Economics <br>
-            College of Business Department 3985 <br>
-            Laramie, WY 82071 USA <br>
-        </div>
-        <div class="span2" style="text-align:left">
-             &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
-                           title="B.H. Choe" alt="B.H. Choe" align="middle" />
-        </div>
-    </div>
     <div class="row-fluid">
         <div class="span1" style="text-align:left">
         </div>
@@ -51,6 +35,26 @@ My research interests include analyzing the interplay between the economy and th
                            align="middle" />
         </div>
     </div>    
+</div>
+
+<br />
+---
+
+#### <a name="Contact"></a>Contact
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@uwyo.edu">bchoe@uwyo.edu</a><br>
+            <br/>
+            Department of Economics <br>
+            College of Business Department 3985 <br>
+            Laramie, WY 82071 USA <br>
+        </div>
+        <div class="span2" style="text-align:left">
+             &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
+                           title="B.H. Choe" alt="B.H. Choe" align="middle" />
+        </div>
+    </div>  
 </div>
 
 <br />
