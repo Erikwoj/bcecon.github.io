@@ -14,7 +14,7 @@ My research interests include analyzing the interplay between the economy and th
 
 <div class="container">
     <div class="row-fluid">
-        <div class="span2" style="text-align:left">
+        <div class="span1" style="text-align:left">
         </div>
         <div class="span6" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2017.jpg"
