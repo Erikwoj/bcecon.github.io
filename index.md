@@ -29,6 +29,26 @@ My research interests include analyzing the interplay between the economy and th
                            title="B.H. Choe" alt="B.H. Choe" align="middle" />
         </div>
     </div>
+    <div class="row-fluid">
+        <div class="span2" style="text-align:left">
+             &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2013.jpeg"
+                           title="cliamte_change_campaign_twitter_2013" 
+                           alt="Climate Change Social Media Campaigns in 2013" 
+                           align="middle" />
+        </div>
+        <div class="span2" style="text-align:left">
+             &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2015.jpeg"
+                           title="cliamte_change_campaign_twitter_2015" 
+                           alt="Climate Change Social Media Campaigns in 2015" 
+                           align="middle" />
+        </div>
+        <div class="span2" style="text-align:left">
+             &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2017.jpeg"
+                           title="cliamte_change_campaign_twitter_2017" 
+                           alt="Climate Change Social Media Campaigns in 2017" 
+                           align="middle" />
+        </div>
+    </div>    
 </div>
 
 <br />
