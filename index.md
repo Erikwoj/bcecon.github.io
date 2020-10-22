@@ -27,7 +27,9 @@ My research interests include analyzing the interplay between the economy and th
         </div>
     </div>    
 </div>
+
 <br />
+
 ---
 
 #### <a name="Contact"></a>Contact
