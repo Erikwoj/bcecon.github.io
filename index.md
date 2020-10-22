@@ -30,6 +30,8 @@ My research interests include analyzing the interplay between the economy and th
         </div>
     </div>
     <div class="row-fluid">
+        <div class="span1" style="text-align:left">
+        </div>
         <div class="span2" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2013.jpeg"
                            title="cliamte_change_campaign_twitter_2013" 
