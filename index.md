@@ -12,6 +12,7 @@ My research interests include analyzing the interplay between the economy and th
 
 <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
+<br />
 
 ###### <a name="Map of #climatechange/#globalwarming Tweets in 2017"></a>Map of #climatechange/#globalwarming Tweets in 2017
 <div class="container">
