@@ -18,7 +18,7 @@ My research interests include analyzing the interplay between the economy and th
     <div class="row-fluid">
         <div class="span1" style="text-align:left">
         </div>
-        <div class="span5" style="text-align:left">
+        <div class="span6" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/n_tweets_pop_2017.jpg"
                            title="cliamte_change_campaign_twitter_2017" 
                            alt="Climate Change Social Media Campaigns in 2017" 
