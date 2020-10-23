@@ -34,6 +34,15 @@ My research interests include analyzing the interplay between the economy and th
             Department of Economics <br>
             College of Business Department 3985 <br>
             Laramie, WY 82071 USA <br>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <font size="-1">&nbsp;design modified & forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman </a></font>
         </div>
         <div class="span2" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
