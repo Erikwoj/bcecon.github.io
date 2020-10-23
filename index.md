@@ -13,7 +13,7 @@ My research interests include analyzing the interplay between the economy and th
 
 <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
-<img src="../assets/n_tweets_pop_2017.jpg"
+<img src="../assets/n_campaign_pop_2017_lavender.jpg"
                            title="Climate Change Campaigns in Social Media" 
                            alt="Climate Change Social Media Campaigns in 2017" 
                            align="middle" />
