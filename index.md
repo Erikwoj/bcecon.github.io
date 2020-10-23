@@ -42,7 +42,7 @@ My research interests include analyzing the interplay between the economy and th
             <br/>
             <br/>
             <br/>
-            <font size="-1">&nbsp;design modified & forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman </a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos </a> </font>
+            <font size="-1">&nbsp;design modified & forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> </font>
         </div>
         <div class="span2" style="text-align:left">
              &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
