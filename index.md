@@ -11,7 +11,9 @@ My name is Byeong-Hak Choe. I am a PhD candidate in Economics at the University 
 
 My research interests include analyzing the interplay between the economy and the environment, particularly for the climate, as well as designing new climate-economy models to demonstrate how the climate shapes the economy, and vice versa.
 
-<a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
+Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>.
+
+<br/>
 
 <img src="../assets/n_campaign_pop_2017_lavender.jpg"
                            title="Climate Change Campaigns in Social Media" 
@@ -19,7 +21,7 @@ My research interests include analyzing the interplay between the economy and th
                            align="middle" />
 
 
-<br />
+<br/>
 
 <br>
 
