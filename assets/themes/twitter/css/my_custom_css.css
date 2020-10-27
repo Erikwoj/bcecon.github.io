@@ -172,3 +172,12 @@ body {
     width: 100%;
   }
 }
+
+/* For mobile phones: */
+[class*="column left"] {
+  width: 100%;
+}
+
+[class*="column right"] {
+  width: 100%;
+}
