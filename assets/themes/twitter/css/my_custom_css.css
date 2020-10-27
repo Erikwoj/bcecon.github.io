@@ -146,13 +146,16 @@ body {
 .column {
   float: left;
   padding: 10px;
+  min-height: 100%
 }
 .column.left {
   width: 24%;
+  min-height: 100%
 }
 
 .column.right {
   width: 76%;
+  min-height: 100%
 }
 
 
