@@ -4,23 +4,21 @@ title: B.H. Choe - Home
 description: Byeong-Hak Choe is a PhD candidate at the University of Wyoming. 
 keywords: Byeong-Hak, Choe, Economics
 ---
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2" style="padding-right:20px">
+<div class="row">
+    <div class="column left" style="padding-right:20px">
               <img src="../assets/bchoe20201027.jpg"
-                           title="B.H. Choe" alt="B.H. Choe" align="middle" />
-        </div>
-        <div class="span5">
+                           title="B.H. Choe" alt="B.H. Choe" align="right" />
+    </div>
+    <div class="column right">
             Hello!<br>
             <br/>
-            My name is Byeong-Hak Choe. I am a PhD candidate in Economics at the University of Wyoming.<br>
+            My name is Byeong-Hak Choe. I am a PhD candidate in Economics at University of Wyoming.<br>
             <br/>
             My research interests include analyzing the interplay between the economy and the environment, particularly for the climate, as well as designing new climate-economy models to demonstrate how the climate shapes the economy, and vice versa.<br>
             <br/>
             Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing" >curriculum vitae<img src="../pages/icons16/pdf-icon.png"
                            title="B.H. Choe" alt="B.H. Choe" align="middle" />.</a>
-        </div>
-    </div>  
+    </div>
 </div>
 
 <br/>

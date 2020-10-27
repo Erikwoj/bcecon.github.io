@@ -31,8 +31,11 @@ description: B.H. Choe's teaching
             &nbsp; &nbsp; <img src="../assets/choe_board.jpeg"
                  	 		title="B.H. Choe" alt="B.H. Choe"/>
         <br>
+        <br>
+        <br>
         </div>
     </div>
 </div>
+	"Byeong-Hak Choe was obviously learned enough to know which economics studies had application and approachability for intermediate students. I never asked if he designed theoretical assignment problems from scratch or had guidance from several text books, but each assignment required students to skim at least one study and focus the insight of the week's lessons on realistic messes." from teaching evaluation for ECON 3010, Instructor: Byeong-Hak Choe
 
 <br />

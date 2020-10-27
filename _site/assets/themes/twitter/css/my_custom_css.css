@@ -143,3 +143,23 @@ body {
     width: 990px;
 }
 
+.column {
+  float: left;
+  padding: 10px;
+}
+.column.left {
+  width: 24%;
+}
+
+.column.right {
+  width: 76%;
+}
+
+
+/* Clear floats after the columns */
+
+.row {
+  display: flex;
+  margin: auto;
+}
+
