@@ -5,11 +5,11 @@ description: Byeong-Hak Choe is a PhD candidate at the University of Wyoming.
 keywords: Byeong-Hak, Choe, Economics
 ---
 <div class="row-fluid">
-    <div class="column left" style="padding-right:20px">
+    <div class="span3" style="padding-right:15px">
               <img src="../assets/bchoe20201027.jpg"
                            title="B.H. Choe" alt="B.H. Choe" align="right" />
     </div>
-    <div class="column right">
+    <div class="span8 span12-tablet">
             Hello!<br>
             <br/>
             My name is Byeong-Hak Choe. I am a PhD candidate in Economics at University of Wyoming.<br>
