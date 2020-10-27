@@ -4,7 +4,7 @@ title: B.H. Choe - Home
 description: Byeong-Hak Choe is a PhD candidate at the University of Wyoming. 
 keywords: Byeong-Hak, Choe, Economics
 ---
-<div class="row">
+<div class="row-fluid">
     <div class="column left" style="padding-right:20px">
               <img src="../assets/bchoe20201027.jpg"
                            title="B.H. Choe" alt="B.H. Choe" align="right" />

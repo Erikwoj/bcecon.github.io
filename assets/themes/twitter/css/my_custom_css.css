@@ -161,7 +161,7 @@ body {
 
 /* Clear floats after the columns */
 
-.row {
+.row-fluid {
   display: flex;
   margin: auto;
 }
