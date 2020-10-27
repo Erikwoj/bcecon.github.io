@@ -170,8 +170,12 @@ body {
 @media screen and (max-width: 300px) {
   .column {
     width: 100%;
+    column-count: 1;
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
   }
 }
+
 
 /* For mobile phones: */
 [class*="column left"] {
