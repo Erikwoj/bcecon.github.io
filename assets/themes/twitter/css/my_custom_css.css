@@ -171,6 +171,7 @@ body {
   .row-fluid {
       display: flex;
       margin: auto;
+      column-count: 1;
    }
   .column {
     width: 100%;
