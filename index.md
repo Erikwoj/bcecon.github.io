@@ -46,7 +46,7 @@ Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU
             <font size="-1">&nbsp;Design forked & modified from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> </font>
         </div>
         <div class="span2" style="text-align:left">
-             &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
+             &nbsp; &nbsp;  <img src="../assets/bchoe20201026.jpg"
                            title="B.H. Choe" alt="B.H. Choe" align="middle" />
         </div>
     </div>  
