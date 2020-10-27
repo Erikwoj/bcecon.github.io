@@ -6,7 +6,7 @@ keywords: Byeong-Hak, Choe, Economics
 ---
 <div class="row-fluid">
     <div class="span3" style="padding-right:15px">
-              <img src="../assets/bchoe20201027.jpg"
+              <img src="../assets/bchoe20201027_1.jpg"
                            title="B.H. Choe" alt="B.H. Choe" align="right" />
     </div>
     <div class="span8 span12-tablet">
