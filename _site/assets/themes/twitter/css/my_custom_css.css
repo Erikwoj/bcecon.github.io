@@ -147,6 +147,7 @@ body {
   float: left;
   padding: 10px;
   min-height: 100%
+  column-count: 2;
 }
 .column.left {
   width: 24%;
@@ -171,4 +172,3 @@ body {
     width: 100%;
   }
 }
-
