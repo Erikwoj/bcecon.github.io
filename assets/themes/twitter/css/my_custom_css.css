@@ -167,6 +167,11 @@ body {
   margin: auto;
 }
 
+
+.maxHeightDiv {
+    height: 200px;
+}
+
 @media screen and (max-width: 160px) {
   .row-fluid {
       display: flex;
