@@ -172,6 +172,7 @@ body {
       display: flex;
       margin: auto;
       column-count: 1;
+      position: relative;
     -moz-column-count: 1;
     -webkit-column-count: 1;
    }
