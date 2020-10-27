@@ -4,16 +4,27 @@ title: B.H. Choe - Home
 description: Byeong-Hak Choe is a PhD candidate at the University of Wyoming. 
 keywords: Byeong-Hak, Choe, Economics
 ---
-
-Hello!
-
-My name is Byeong-Hak Choe. I am a PhD candidate in Economics at the University of Wyoming.
-
-My research interests include analyzing the interplay between the economy and the environment, particularly for the climate, as well as designing new climate-economy models to demonstrate how the climate shapes the economy, and vice versa.
-
-Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing">curriculum vitae![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2" style="padding-right:20px">
+              <img src="../assets/bchoe20201027.jpg"
+                           title="B.H. Choe" alt="B.H. Choe" align="middle" />
+        </div>
+        <div class="span5">
+            Hello!<br>
+            <br/>
+            My name is Byeong-Hak Choe. I am a PhD candidate in Economics at the University of Wyoming.<br>
+            <br/>
+            My research interests include analyzing the interplay between the economy and the environment, particularly for the climate, as well as designing new climate-economy models to demonstrate how the climate shapes the economy, and vice versa.<br>
+            <br/>
+            Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing" >curriculum vitae<img src="../pages/icons16/pdf-icon.png"
+                           title="B.H. Choe" alt="B.H. Choe" align="middle" />.</a>
+        </div>
+    </div>  
+</div>
 
 <br/>
+<br>
 
 <img src="../assets/n_campaign_pop_2017_lavender.jpg"
                            title="Climate Change Campaigns in Social Media" 
@@ -21,8 +32,6 @@ Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU
                            align="middle" />
 
 <br/>
-
-<br>
 
 ---
 
@@ -37,17 +46,9 @@ Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU
             Laramie, WY 82071 USA <br>
             <br/>
             <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <font size="-1">&nbsp;Design forked & modified from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> </font>
+            <font size="-1">Design forked & modified from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> </font>
         </div>
         <div class="span2" style="text-align:left">
-             &nbsp; &nbsp;  <img src="../assets/choe_headshot.jpeg"
-                           title="B.H. Choe" alt="B.H. Choe" align="middle" />
         </div>
     </div>  
 </div>
