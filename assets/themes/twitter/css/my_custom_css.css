@@ -168,7 +168,23 @@ body {
 }
 
 @media screen and (max-width: 300px) {
+  .row-fluid {
+      display: flex;
+      margin: auto;
+   }
   .column {
+    width: 100%;
+    column-count: 1;
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
+   }
+  .column.left {
+    width: 100%;
+    column-count: 1;
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
+  }
+  .column.right {
     width: 100%;
     column-count: 1;
     -moz-column-count: 1;
