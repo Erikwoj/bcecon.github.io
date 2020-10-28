@@ -24,10 +24,92 @@ keywords: Byeong-Hak, Choe, Economics
 <br/>
 <br>
 
-<img src="../assets/n_campaign_pop_2017_lavender.jpg"
-                           title="Climate Change Campaigns in Social Media" 
-                           alt="Climate Change Social Media Campaigns in 2017" 
-                           align="middle" />
+<!-- Slideshow container -->
+<p style="text-align:center;">US map of social media campaigns with #climatechange/#globalwarming from 2012 to 2017</p>
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img src="../assets/n_campaign_2012.png" style="width:100%">
+    <div class="text" style="color:indigo;">2012</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img src="../assets/n_campaign_2013.png" style="width:100%">
+    <div class="text" style="color:indigo;">2013</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img src="../assets/n_campaign_2014.png" style="width:100%">
+    <div class="text" style="color:indigo;">2014</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img src="../assets/n_campaign_2015.png" style="width:100%">
+    <div class="text" style="color:indigo;">2015</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img src="../assets/n_campaign_2016.png" style="width:100%">
+    <div class="text" style="color:indigo;">2016</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img src="../assets/n_campaign_2017.png" style="width:100%">
+    <div class="text" style="color:indigo;">2017</div>
+  </div>
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)" style="color:indigo;">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)" style="color:indigo;">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+</div>
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
 
 <br/>
 
