@@ -2,6 +2,8 @@
 layout: page
 title: B.H. Choe - Teaching
 description: B.H. Choe's teaching
+
+
 ---
 
 #### <a name="Instructor"></a>Instructor
@@ -36,6 +38,11 @@ description: B.H. Choe's teaching
         </div>
     </div>
 </div>
-	"Byeong-Hak Choe was obviously learned enough to know which economics studies had application and approachability for intermediate students. I never asked if he designed theoretical assignment problems from scratch or had guidance from several text books, but each assignment required students to skim at least one study and focus the insight of the week's lessons on realistic messes." from teaching evaluation for ECON 3010, Instructor: Byeong-Hak Choe
 
+##### Student Quote
+<div style="line-height:200%; font-style: italic; font-family: Comic Sans MS; background-color: rgba(204, 204, 255, .3); padding-left:15px; padding-right:15px; padding-top:10px; padding-bottom:10px; margin-right: 20px; border-style: groove" >
+	"Byeong-Hak Choe was obviously learned enough to know which economics studies had application and approachability for intermediate students. I never asked if he designed theoretical assignment problems from scratch or had guidance from several text books, but each assignment required students to skim at least one study and focus the insight of the week's lessons on realistic messes."
+</div>
 <br />
+
+
