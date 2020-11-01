@@ -6,6 +6,11 @@ description: B.H. Choe's research
 
 #### <a name="Working paper"></a>Working paper
 ##### <b> "Social Media Campaigns, Lobbying and Legislation: Evidence from #climatechange/#globalwarming and Energy Lobby" (Job Market Paper)</b>
+
+<p align="stretch">
+To what extent do social media campaigns compete with fossil fuel industry's lobbying on climate change policy? In this article, I estimate the effect of social media campaigns and partisan identity on the effectiveness of fossil fuel lobbying against climate change actions during the 113-115th Congresses. I find that social media campaigns  decrease the effectiveness of fossil fuel lobbying against climate change actions on Democrats by 0.248\%. The effectiveness of fossil fuel lobbying against climate change actions is at least 10.4% greater on Republicans than on Democrats, and such effect gap between Democrats and Republicans is likely to increase as social media campaigns become more popular. The effect of social media campaigns on Democrats' decisions against climate change actions is quantified as \$0.64 millions in terms of stakes of lobbying expenditure, which is very small relative to the size of fossil fuel lobbying against climate change actions, $226.14 millions. Average rate of returns to fossil fuel lobbying on congressperson's decisions against climate change actions are -13.16% on Democrats and 18.72% on Republicans.
+</p>
+
 <br>
 
 #### <a name="Work in progress"></a>Work in progress
