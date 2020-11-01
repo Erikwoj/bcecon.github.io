@@ -16,6 +16,8 @@ keywords: Byeong-Hak, Choe, Economics
             <br/>
             My research interests include analyzing the interplay between the economy and the environment, particularly for the climate, as well as designing new climate-economy models to demonstrate how the climate shapes the economy, and vice versa.<br>
             <br/>
+            I employ economic theory, econometrics and data science techniques for conducting research on contemporary social issues, particularly for climate change and the environment.<br>
+            <br/>
             Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing" >curriculum vitae<img src="../pages/icons16/pdf-icon.png"
                            title="B.H. Choe" alt="B.H. Choe" align="middle" />.</a>
     </div>
