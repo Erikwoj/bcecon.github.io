@@ -13,7 +13,6 @@ To what extent do social media campaigns compete with fossil fuel industry's lob
 
 <br>
 
-#### <a name="Work in progress"></a>Work in progress
 ##### <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> "Climate Finance under Conflicts and Renegotiations: A Dynamic Contract Approach" (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
 <p align="stretch">
@@ -21,6 +20,8 @@ Considering climate funds (e.g. the Green Climate Fund) as the financial mechani
 </p>
 
 <br>
+
+#### <a name="Work in progress"></a>Work in progress
 
 ##### <b>"'Hiding Behind the Small Cake' in an Online Dictator Game: The Way You Hide Matters!,"</b> with Tabaré Capitan (1st author), Jason Shogren, and Benjamin White
 
