@@ -305,10 +305,6 @@ body {
   .prev, .next,.text {font-size: 11px}
 }
 
-@font-face {
-  font-family: 'Comic Sans MS';
-  src: url("comic-sans-ms/comici.ttf");
-}
 
 .w3-hide{display:none!important}.w3-show-block,.w3-show{display:block!important}.w3-show-inline-block{display:inline-block!important}
 @media (max-width:1205px){.w3-auto{max-width:95%}}
@@ -328,7 +324,7 @@ body {
   background-color: rgba(214, 224, 245, .8);
   border: none;
   color: black;
-  text-shadow: 0 0 1px #000000;
+  text-shadow: 0 0 0px #000000;
   padding: 2px 5px;
   text-align: center;
   text-decoration: none;
