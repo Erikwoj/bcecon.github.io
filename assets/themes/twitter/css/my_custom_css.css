@@ -325,7 +325,7 @@ body {
 
 
 .button {
-  background-color: rgba(214, 224, 245, .9);
+  background-color: rgba(214, 224, 245, .8);
   border: none;
   color: black;
   text-shadow: 0 0 1px #000000;
@@ -341,11 +341,10 @@ body {
 
 
 .button:before {
-  content: '';
-  color: #777;
+  content: '\2751';
   font-weight: bold;
   float: left;
-  margin-left: 5px;
+  margin-left: 1px;
 }
 
 .button:after {
