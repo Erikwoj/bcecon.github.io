@@ -8,16 +8,16 @@ description: B.H. Choe's research
 ##### <a href="https://bcecon.github.io/assets/choe_jmp_climate_change_social_media_lobby_legislation.pdf"> Social Media Campaigns, Lobbying and Legislation: Evidence from #climatechange/#globalwarming and Energy Lobby (Job Market Paper) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
 
-<button onclick="myFunction('Demo1')" class="button">[+] Abstract</button>
+<button onclick="myFunction('Demo1')" class="button">Abstract</button>
 
 <div id="Demo1" class="w3-hide w3-container w3-light-grey">
-  <p>To what extent do social media campaigns compete with fossil fuel industry's lobbying on climate change policy? In this article, I estimate the effect of social media campaigns and partisan identity on the effectiveness of lobbying by the fossil fuel industry on a congressperson's decision against climate change actions during the 113-115th Congresses (January 2013-January 2018). I find that a 1% increase in the activity of social media campaigns decreases the effectiveness of the fossil fuel lobbying on a Democrat's decision against climate change actions by 0.260% points. The effectiveness of the fossil fuel lobbying is 13.3% points greater on Republicans than on Democrats. The effectiveness of the fossil fuel lobbying on Republicans is likely to increase as social media campaigns become more popular. The effect of social media campaigns on the effectiveness of the fossil fuel lobbying on Democrats is quantified as $0.82 million in terms of a stake of lobbying expenditure, which is very small relative to the size of fossil fuel lobbying against climate change actions, $226.07 million.</p>
+  <p>To what extent do social media campaigns compete with fossil fuel industry's lobbying on climate change policy? In this article, I estimate the effect of social media campaigns and partisan identity on the effectiveness of lobbying by the fossil fuel industry on a congressperson's decision against climate change actions during the 113-115th Congresses (January 2013-January 2019). I find that a 1% increase in the activity of social media campaigns decreases the effectiveness of the fossil fuel lobbying on a Democrat's decision against climate change actions by 0.260% points. The effectiveness of the fossil fuel lobbying is 13.3% points greater on Republicans than on Democrats. The effectiveness of the fossil fuel lobbying on Republicans is likely to increase as social media campaigns become more popular. The effect of social media campaigns on the effectiveness of the fossil fuel lobbying on Democrats is quantified as $0.82 million in terms of a stake of lobbying expenditure, which is very small relative to the size of fossil fuel lobbying against climate change actions, $226.07 million.</p>
 </div>
 
 ##### <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> Climate Finance under Conflicts and Renegotiations: A Dynamic Contract Approach (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
 
-<button onclick="myFunction('Demo2')" class="button">[+] Abstract</button>
+<button onclick="myFunction('Demo2')" class="button"> Abstract</button>
 
 <div id="Demo2" class="w3-hide w3-container w3-light-grey">
   <p>Considering climate funds (e.g. the Green Climate Fund) as the financial mechanism to provide funding to developing countries, this paper examines a long-term climate funding relationship between two agents---the rich country and the poor country. Conflicts between the rich and poor countries arise when determining 1) the size of climate funding that the rich country contributes to the poor country, and 2) the funding allocation between climate adaptation and mitigation projects in the poor country. In addition, the rich country cannot be forced to commit contractual contributions to the poor country, and the climate funding relationship can be repeatedly renegotiated. This paper suggests the following main results: climate funds work in the long-run, in terms of the size of climate funding and its balance between adaptation and mitigation projects, if and only if climate damage becomes sufficiently severe. Funding allocation between adaptation and mitigation projects becomes more favorable to the poor country if marginal climate costs in the poor country grow faster than in the rich country. Fewer conflicts and fewer renegotiations between the rich and poor countries make climate funding contracts more efficient, remedying inequality between the poor and rich countries.</p>
@@ -40,6 +40,20 @@ function myFunction(id) {
   } else { 
     x.className = x.className.replace(" w3-show", "");
   }
+}
+
+var acc = document.getElementsByClassName("button");
+var i;
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
 }
 </script>
 

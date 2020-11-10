@@ -336,4 +336,23 @@ body {
   font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;
+  transition: 0.4s;
 }
+
+
+.button:before {
+  content: '';
+  color: #777;
+  font-weight: bold;
+  float: left;
+  margin-left: 5px;
+}
+
+.button:after {
+  content: "";
+}
+
+.active, .button:hover {
+  background-color: #ccc;
+}
+ 
