@@ -336,12 +336,12 @@ body {
   font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;
-  transition: 0.4s;
+  transition: 0.2s;
 }
 
 
 .button:before {
-  content: '';
+  content: '\002B';
   color: #777;
   font-weight: bold;
   float: left;
@@ -349,7 +349,7 @@ body {
 }
 
 .button:after {
-  content: "";
+  content: "\2212";
 }
 
 .active, .button:hover {
