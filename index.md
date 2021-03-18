@@ -128,7 +128,7 @@ function showSlides(n) {
             Laramie, WY 82071 USA <br>
             <br/>
             <br/>
-            <font size="-1">Design forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> & modified by <a href="https://github.com/bcecon/">bcecon </font>
+            <font size="-1">Design forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> & modified by <a href="https://github.com/bcecon">bcecon</a>  </font>
         </div>
         <div class="span2" style="text-align:left">
         </div>
