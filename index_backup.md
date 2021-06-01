@@ -14,7 +14,7 @@ keywords: Byeong-Hak, Choe, Economics
             <br/>
             My name is Byeong-Hak Choe. I am a PhD candidate in Economics at University of Wyoming.<br>
             <br/>
-            My research focuses on how to improve effectiveness of climate policy at both micro and macro levels. In particular, I am really interested in building relevant climate-economy models that analyze the interaction between the economy and the climate with physical climate risks---changes in both weather and climate that affect economies---and transition risks---changes in economies arising from a transition to a carbon-neutral economy.<br>
+            My research interests include analyzing the political economy of the environment with a particular focus on climate change, as well as designing new environment-economy models to demonstrate how the environment shapes the economy, and vice versa.<br>
             <br/>
             I am also interested in applying data science techniques for my research.<br>
             <br/>
