@@ -31,6 +31,10 @@ description: B.H. Choe's research
 
 ##### <b>'Hiding Behind the Small Cake' in an Online Dictator Game: The Way You Hide Matters!,</b> with Tabaré Capitan (1st author), Jason Shogren, and Benjamin White
 
+
+##### <b>Signaling Games of Patent War with Infringement Search</b> 
+
+
 <br>
 
 
