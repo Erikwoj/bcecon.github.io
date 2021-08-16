@@ -1,7 +1,7 @@
 ---
 layout: page
 title: B.H. Choe - Home
-description: Byeong-Hak Choe is a PhD candidate at University of Wyoming. 
+description: Byeong-Hak Choe is a Lectuer in Data Analytics at SUNY Geneseo. 
 keywords: Byeong-Hak, Choe, Economics
 ---
 <div class="row-fluid">
@@ -12,7 +12,7 @@ keywords: Byeong-Hak, Choe, Economics
     <div class="span8 span12-tablet">
             Hello!<br>
             <br/>
-            My name is Byeong-Hak Choe. I am a lectuere in data analytics at the State University of New York at Geneseo.<br>
+            My name is Byeong-Hak Choe. I am a lectuere in data analytics at the School of Business at the State University of New York at Geneseo.<br>
             <br/>
             My research focuses on how to improve effectiveness of climate policy at both micro and macro levels. In particular, I am interested in building relevant climate-economy models that analyze the interaction between economies and the climate under risks arising from (1) climate change and (2) a transition to carbon-neutral economies.<br>
             <br/>
