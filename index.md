@@ -123,9 +123,9 @@ function showSlides(n) {
         <div class="span5">
             <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@uwyo.edu">bchoe@uwyo.edu</a><br>
             <br/>
-            Department of Economics <br>
-            College of Business Department 3985 <br>
-            Laramie, WY 82071 USA <br>
+            School of Business <br>
+            South Hall 100 <br>
+            Geneseo, NY 14454 USA <br>
             <br/>
             <br/>
             <font size="-1">Design forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> & modified by <a href="https://github.com/bcecon">bcecon</a>  </font>
