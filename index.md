@@ -121,7 +121,7 @@ function showSlides(n) {
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@uwyo.edu">bchoe@uwyo.edu</a><br>
+            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@geneseo.edu">bchoe@geneseo.edu</a><br>
             <br/>
             School of Business <br>
             South Hall 100 <br>
