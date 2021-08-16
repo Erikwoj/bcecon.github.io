@@ -12,7 +12,7 @@ keywords: Byeong-Hak, Choe, Economics
     <div class="span8 span12-tablet">
             Hello!<br>
             <br/>
-            My name is Byeong-Hak Choe. I am a PhD candidate in Economics at University of Wyoming.<br>
+            My name is Byeong-Hak Choe. I am a lecturer in data analytics at the State University of New York at Geneseo.<br>
             <br/>
             My research focuses on how to improve effectiveness of climate policy at both micro and macro levels. In particular, I am interested in building relevant climate-economy models that analyze the interaction between economies and the climate under risks arising from (1) climate change and (2) a transition to carbon-neutral economies.<br>
             <br/>
