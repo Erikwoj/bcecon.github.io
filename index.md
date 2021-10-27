@@ -122,7 +122,7 @@ function showSlides(n) {
     <div class="row-fluid">
         <div class="span5">
             <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@geneseo.edu">bchoe@geneseo.edu</a><br>
-            South Hall 111B <br>
+            South Hall 117B <br>
             Geneseo, NY 14454 USA <br>
             <br/>
             <br/>
