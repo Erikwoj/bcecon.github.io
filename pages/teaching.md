@@ -10,9 +10,9 @@ description: B.H. Choe's teaching
 
 ##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021, SUNY Geneseo)
 
-##### <strong>DANL 200: Data Preparation and Management</strong> (Fall 2021, SUNY Geneseo)
+##### <strong>DANL 210: Data Preparation and Management</strong> (Fall 2021, SUNY Geneseo)
 
-##### <strong>DANL 200: Advanced Data Analytics</strong> (Fall 2021, SUNY Geneseo)
+##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021, SUNY Geneseo)
 
 ##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, University of Wyoming)
 <div class="container">
