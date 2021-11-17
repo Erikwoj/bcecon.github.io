@@ -8,7 +8,13 @@ description: B.H. Choe's teaching
 
 #### <a name="Instructor"></a>Instructor
 
-##### <strong>ECON 3010 Intermediate Macroeconomics</strong> (Summer 2019, University of Wyoming)
+##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021, In-person, SUNY Geneseo)
+
+##### <strong>DANL 200: Data Preparation and Management</strong> (Fall 2021, In-person, SUNY Geneseo)
+
+##### <strong>DANL 200: Advanced Data Analytics</strong> (Fall 2021, In-person, SUNY Geneseo)
+
+##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online, University of Wyoming)
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
