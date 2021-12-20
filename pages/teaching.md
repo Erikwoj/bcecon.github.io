@@ -14,7 +14,7 @@ description: B.H. Choe's teaching
 
 ##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021, SUNY Geneseo)
 
-##### <strong>DANL 300: Data Visualization and Presentation</strong> (Spring 2022, SUNY Geneseo)
+##### <strong>DANL 310: Data Visualization and Presentation</strong> (Spring 2022, SUNY Geneseo)
 
 ##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, University of Wyoming)
 <div class="container">
