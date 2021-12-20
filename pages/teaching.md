@@ -20,7 +20,7 @@ description: B.H. Choe's teaching
 
 ##### <a name="University of Wyoming"></a>University of Wyoming
 
-##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
+###### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
