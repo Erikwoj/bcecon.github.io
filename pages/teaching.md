@@ -6,21 +6,21 @@ description: B.H. Choe's teaching
 
 ---
 
-#### <a name="Instructor"></a>Instructor
+### <a name="Instructor"></a>Instructor
 
-##### <a name="SUNY Geneseo"></a>SUNY Geneseo
+#### <a name="SUNY Geneseo"></a>SUNY Geneseo
 
-###### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021 & Spring 2022)
+##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021 & Spring 2022)
 
-###### <strong>DANL 210: Data Preparation & Management</strong> (Fall 2021 & Spring 2022)
+##### <strong>DANL 210: Data Preparation & Management</strong> (Fall 2021 & Spring 2022)
 
-###### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021)
+##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021)
 
-###### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022)
+##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022)
 
-##### <a name="University of Wyoming"></a>University of Wyoming
+#### <a name="University of Wyoming"></a>University of Wyoming
 
-###### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
+##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
