@@ -8,6 +8,7 @@ description: B.H. Choe's teaching
 
 #### <a name="Instructor"></a>Instructor
 
+
 #### <a name="SUNY Geneseo"></a>SUNY Geneseo
 
 ##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021 & Spring 2022)
@@ -17,6 +18,7 @@ description: B.H. Choe's teaching
 ##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021)
 
 ##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022)
+
 
 #### <a name="University of Wyoming"></a>University of Wyoming
 
