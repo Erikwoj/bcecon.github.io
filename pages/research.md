@@ -14,9 +14,10 @@ description: B.H. Choe's research
   <p>To what extent do social media campaigns compete with fossil fuel lobbying on climate change legislation? In this article, I estimate the effect of social media campaigns on a congressperson's legislative activities against climate change actions during the U.S. Congresses (January 2013-January 2019). I find that (1) a 1% increase in the per-capita level of activities of climate change campaigns using Twitter decreases Democrats' tendency to support climate-unfriendly legislation by 0.9%, while it increases Republicans' one by 0.2%; (2) a 1% increase in the fossil fuel industry's lobbying expenditure relative to the rest of industries' lobbying expenditure increases Republicans' tendency to support climate-unfriendly legislation by 1.1%; and (3) Republicans are 41.3% points more likely to support climate-unfriendly legislation than Democrats. I also find that negative sentiment in social media campaigns contributes to affecting congresspersons' support for climate-unfriendly legislation.</p>
 </div>
 
-##### Climate Finance under Conflicts and Renegotiations: A Dynamic Contract Approach 
+##### 
+##### <a href="https://drive.google.com/file/d/1vtWRrVDkYSJvUwhNDfgngnxBOUtIM5wK/view?usp=sharing"> Climate Finance under Conflicts and Renegotiations: A Dynamic Contract Approach ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
   
-  <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png) <a href="https://drive.google.com/file/d/1vtWRrVDkYSJvUwhNDfgngnxBOUtIM5wK/view?usp=sharing"> (Paper) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
+  <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)
 
 
 
