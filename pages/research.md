@@ -17,7 +17,7 @@ description: B.H. Choe's research
 
 ##### <a href="https://drive.google.com/file/d/1vtWRrVDkYSJvUwhNDfgngnxBOUtIM5wK/view?usp=sharing"> Climate Finance under Conflicts and Renegotiations: A Dynamic Contract Approach ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
   
-  <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)
+##### <a href="https://drive.google.com/file/d/1DC7mB4s_yM7ckt_H2K2g_KaO_EFbkQLC/view?usp=sharing"> (AEA 2019 poster) ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)
 
 
 
