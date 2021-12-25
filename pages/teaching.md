@@ -11,6 +11,9 @@ description: B.H. Choe's teaching
 
 
 <div class="container">
+	
+</div>
+
 #### <a name="SUNY Geneseo"></a>SUNY Geneseo
 
 ##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021 & Spring 2022)
@@ -20,11 +23,14 @@ description: B.H. Choe's teaching
 ##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021)
 
 ##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022)
-</div>
+
 
 
 
 <div class="container">
+	
+</div>
+
 #### <a name="University of Wyoming"></a>University of Wyoming
 
 ##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
@@ -56,7 +62,6 @@ description: B.H. Choe's teaching
         <br>
         </div>
     </div>
-</div>
 </div>
 
 ##### Student Quote
