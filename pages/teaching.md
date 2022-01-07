@@ -8,7 +8,33 @@ description: B.H. Choe's teaching
 
 #### <a name="Instructor"></a>Instructor
 
-##### <strong>ECON 3010 Intermediate Macroeconomics</strong> (Summer 2019, University of Wyoming)
+
+
+<div class="container">
+	
+</div>
+
+#### <a name="SUNY Geneseo"></a>SUNY Geneseo
+
+##### <strong>DANL 200: Introduction to Data Analytics</strong> (Fall 2021 & Spring 2022) <a href="https://drive.google.com/file/d/10TQ6Hup3HVUwlC743ZQPLJC_Eu_ELfxI/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
+
+
+##### <strong>DANL 210: Data Preparation & Management</strong> (Fall 2021 & Spring 2022) <a href="https://drive.google.com/file/d/1KaKCBe1Cib5mga7fk4f9X0DIJCyuMQa_/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
+
+##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021) <a href="https://drive.google.com/file/d/1OpA6iFgd5pzUFHt5Zns0EOwa4KKo37dM/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
+
+##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022) 
+
+
+
+
+<div class="container">
+	
+</div>
+
+#### <a name="University of Wyoming"></a>University of Wyoming
+
+##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online)
 <div class="container">
     <div class="row-fluid">
         <div class="span2">

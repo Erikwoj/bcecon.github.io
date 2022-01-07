@@ -1,7 +1,7 @@
 ---
 layout: page
 title: B.H. Choe - Home
-description: Byeong-Hak Choe is a PhD candidate at University of Wyoming. 
+description: Byeong-Hak Choe is a Lectuer in Data Analytics at SUNY Geneseo. 
 keywords: Byeong-Hak, Choe, Economics
 ---
 <div class="row-fluid">
@@ -12,7 +12,7 @@ keywords: Byeong-Hak, Choe, Economics
     <div class="span8 span12-tablet">
             Hello!<br>
             <br/>
-            My name is Byeong-Hak Choe. I am a lecturer in data analytics at the State University of New York at Geneseo.<br>
+            My name is Byeong-Hak Choe. I am a lecturer in data analytics at the School of Business at the State University of New York at Geneseo.<br>
             <br/>
             My research focuses on how to improve effectiveness of climate policy at both micro and macro levels. In particular, I am interested in building relevant climate-economy models that analyze the interaction between economies and the climate under risks arising from (1) climate change and (2) a transition to carbon-neutral economies.<br>
             <br/>
@@ -121,11 +121,9 @@ function showSlides(n) {
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@uwyo.edu">bchoe@uwyo.edu</a><br>
-            <br/>
-            Department of Economics <br>
-            College of Business Department 3985 <br>
-            Laramie, WY 82071 USA <br>
+            <b>Byeong-Hak Choe</b> <b>&nbsp;|&nbsp;</b> <a href="mailto:bchoe@geneseo.edu">bchoe@geneseo.edu</a><br>
+            South Hall 117B <br>
+            Geneseo, NY 14454 USA <br>
             <br/>
             <br/>
             <font size="-1">Design forked from <a href="https://github.com/kbroman/kbroman.github.io">kborman</a> and <a href="https://github.com/mbcarlos/simple_academic_website">mbcarlos</a> & modified by <a href="https://github.com/bcecon">bcecon</a>  </font>
