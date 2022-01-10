@@ -41,19 +41,6 @@ description: B.H. Choe's teaching
         	<br>
             <a href="https://drive.google.com/file/d/1Gm9zwmBhb8mdrd35AJq01cqJGQoi4sUf/view?usp=sharing"> Syllabus
             <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1guwxAxaTuUvfTZVsZXYU38HkW1PenRaS/view?usp=sharing"> Homework 1 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1GNe4avQCwYaDWuCminndAd5XlaJQjExa/view?usp=sharing"> Homework 2 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1jTcfTxboBwaPhIggsNOpfLOzZXf-VCB9/view?usp=sharing"> Homework 3 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1xLyOdrmKCmfc0jDOEE66tAxpKhMahZcX/view?usp=sharing"> Homework 4 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1l17K14WDzAXl8cYelvUFlrai31SGGhvV/view?usp=sharing"> Homework 5 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1slFkgHqDHKFVGLz5p82CGkyQ4XnOpFa5/view?usp=sharing"> Homework 6 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1NWQ7zBTDs3ggDKTLcwMflNN5JWLvNgzL/view?usp=sharing"> Homework 7 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1w15OZCI_qe5lzZqC6AZIvHN-HG2N-Nys/view?usp=sharing"> Homework 8 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/18d4aW68sk1fts5Nwf7CV1RBbgvXEYSnQ/view?usp=sharing"> Homework 9 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1icVD1M6st0B2oJjPD9qKmv3Au8gs1Qzi/view?usp=sharing"> Homework 10 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/16q0XffD48f5-AcfyxeCktaSf7HSuJo_F/view?usp=sharing"> Homework 11 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a><br>
-			<a href="https://drive.google.com/file/d/1lvtl6fipQFUP48TOn6ssSqJnypD-k4Ju/view?usp=sharing"> Homework 12 <img src="{{ BASE_PATH }}/pages/icons16/pdf-icon.png"/> </a>
-			<br>
         </div>
         <div class="span5" style="text-align:right">
             &nbsp; &nbsp; <img src="../assets/choe_board.jpeg"
