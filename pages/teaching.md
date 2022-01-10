@@ -37,12 +37,8 @@ description: B.H. Choe's teaching
 ##### <strong>ECON 3010: Intermediate Macroeconomics</strong> (Summer 2019, Online) <a href="https://drive.google.com/file/d/1Gm9zwmBhb8mdrd35AJq01cqJGQoi4sUf/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
 <div class="container">
     <div class="row-fluid">
-        <div class="span2">
-        </div>
-        <div class="span5" style="text-align:right">
-            &nbsp; &nbsp; <img src="../assets/choe_board.jpeg"
+        &nbsp; &nbsp; <img src="../assets/choe_board.jpeg"
                  	 		title="B.H. Choe" alt="B.H. Choe"/>
-        </div>
     </div>
 </div>
 
