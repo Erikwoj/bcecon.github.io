@@ -16,7 +16,7 @@ keywords: Byeong-Hak, Choe, Economics
             <br/>
             My research focuses on how to improve effectiveness of climate policy at both micro and macro levels. In particular, I am interested in building relevant climate-economy models that analyze the interaction between economies and the climate under risks arising from (1) climate change and (2) a transition to carbon-neutral economies.<br>
             <br/>
-            I am also interested in applying data science techniques for my research.<br>
+            I am also interested in applying data science techniques & machine learning methods for my research.<br>
             <br/>
             Here is my <a href="https://drive.google.com/file/d/1wrKIgrHOT1t9EnRgqCCEaVpOXxU_DJkY/view?usp=sharing" >curriculum vitae<img src="../pages/icons16/pdf-icon.png"
                            title="B.H. Choe" alt="B.H. Choe" align="middle" />.</a>
