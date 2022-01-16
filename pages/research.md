@@ -32,7 +32,7 @@ description: B.H. Choe's research
 
 #### <a name="Work in progress"></a>Work in progress
 
-##### <b>'Hiding Behind the Small Cake' in an Online Dictator Game: The Way You Hide Matters!,</b> with Tabaré Capitan (1st author), Jason Shogren, and Benjamin White
+##### <b>'Hiding Behind a Small Cake' in an Online Dictator Game: The Way You Hide Matters!,</b> with Tabaré Capitan (1st author), Jason Shogren, and Benjamin White
 
 <br>
 
