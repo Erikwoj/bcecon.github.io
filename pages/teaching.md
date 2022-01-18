@@ -49,9 +49,7 @@ description: B.H. Choe's teaching
 	"Byeong-Hak Choe was obviously learned enough to know which economics studies had application and approachability for intermediate students. I never asked if he designed theoretical assignment problems from scratch or had guidance from several text books, but each assignment required students to skim at least one study and focus the insight of the week's lessons on realistic messes."
 </div>
 
-<div class="container">
-	
-</div>
+<p></p>
 
 <div style="line-height:200%; font-style: italic; font-family: 'Comic Sans MS', 'Chalkboard', 'ChalkboardSE-Regular', 'Marker Felt', sans-serif; background-color: rgba(204, 204, 255, .3); padding-left:15px; padding-right:15px; padding-top:8px; padding-bottom:10px; margin-right: 20px; border-style: groove" >
 	"Choe is super nice and helpful in understanding materials. He wants us all to do good and is very encouraging! Even though DANL 210 is a super hard course, he made it better by being available to help us when we needed it."
