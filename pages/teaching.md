@@ -44,6 +44,9 @@ description: B.H. Choe's teaching
     </div>
 </div>
 
+<p>&nbsp;</p>
+<p></p>
+
 ##### Student Quotes
 <div style="line-height:200%; font-style: italic; font-family: 'Comic Sans MS', 'Chalkboard', 'ChalkboardSE-Regular', 'Marker Felt', sans-serif; background-color: rgba(204, 204, 255, .3); padding-left:15px; padding-right:15px; padding-top:8px; padding-bottom:10px; margin-right: 20px; border-style: groove" >
 	"Byeong-Hak Choe was obviously learned enough to know which economics studies had application and approachability for intermediate students. I never asked if he designed theoretical assignment problems from scratch or had guidance from several text books, but each assignment required students to skim at least one study and focus the insight of the week's lessons on realistic messes."
