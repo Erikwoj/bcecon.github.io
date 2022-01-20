@@ -5,7 +5,7 @@ description: B.H. Choe's research
 ---
 
 #### <a name="Working paper"></a>Working paper
-##### <a href="https://drive.google.com/file/d/1mqQM83JXKWBYDBVACfK4rdbjf165WGuv/view?usp=sharing"> Social Media Campaigns, Lobbying and Legislation: Evidence from #climatechange/#globalwarming and Energy Lobbies ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
+##### <a href="https://drive.google.com/file/d/1D06BOUWBS3Sblr95pnedXlrep0fzY86M/view?usp=sharing"> Social Media Campaigns, Lobbying and Legislation: Evidence from #climatechange/#globalwarming and Energy Lobbies ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)</a>
 
 
 <button onclick="myFunction('Demo1')" class="button">&nbsp;Abstract</button>
