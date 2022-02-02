@@ -21,7 +21,7 @@ description: B.H. Choe's teaching
 
 ##### <strong>DANL 210: Data Preparation & Management</strong> (Fall 2021 & Spring 2022) <a href="https://drive.google.com/file/d/1KaKCBe1Cib5mga7fk4f9X0DIJCyuMQa_/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
 
-##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021) <a href="https://drive.google.com/file/d/1OpA6iFgd5pzUFHt5Zns0EOwa4KKo37dM/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
+##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021) <a href="https://drive.google.com/file/d/1OpA6iFgd5pzUFHt5Zns0EOwa4KKo37dM/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a> <a href="https://drive.google.com/file/d/1i447APxZT9LeoqMjmeu-nIj2HmdJHTwo/view?usp=sharing"> (Sample Lecture 1 ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a> <a href="https://drive.google.com/file/d/1nwMxshvZ_PiBCig6ltk31tA0G42KHtp8/view?usp=sharing"> (Sample Lecture 2 ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
 
 ##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022) 
 
