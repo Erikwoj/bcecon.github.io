@@ -23,7 +23,7 @@ description: B.H. Choe's teaching
 
 ##### <strong>DANL 300: Advanced Data Analytics</strong> (Fall 2021) <a href="https://drive.google.com/file/d/1OpA6iFgd5pzUFHt5Zns0EOwa4KKo37dM/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a> <a href="https://drive.google.com/file/d/1i447APxZT9LeoqMjmeu-nIj2HmdJHTwo/view?usp=sharing"> (Model Selection 1: Online Shopping ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a> <a href="https://drive.google.com/file/d/1nwMxshvZ_PiBCig6ltk31tA0G42KHtp8/view?usp=sharing"> (Model Selection 2: NHL Hockey Player's Performance ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
 
-##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022) <a href="https://drive.google.com/file/d/14Qw2_aIXnNB5cH08oqCVXBisPM6iBpWH/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>
+##### <strong>DANL 310: Data Visualization & Presentation</strong> (Spring 2022) <a href="https://drive.google.com/file/d/14Qw2_aIXnNB5cH08oqCVXBisPM6iBpWH/view?usp=sharing"> (Syllabus ![paper as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png))</a>  <a href="https://bcdanl.github.io"> (GitHub Website)</a>
 
 
 
